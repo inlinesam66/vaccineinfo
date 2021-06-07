@@ -57,7 +57,7 @@ def footer(inp_views):
         "Page Visits - ", str(inp_views),
         br(),
         "Created by ",
-        link("https://github.com/bhattbhavesh91", "Bhavesh Bhatt"),
+        link("https://github.com/inlinesam66", "Sudipta Dhar"),
         "     ",
         
     ]
