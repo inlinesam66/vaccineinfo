@@ -170,7 +170,7 @@ else:
 # }
 # </style>
 # <div class="footer">
-# <p>Developed with ❤ by <a style='display: block; text-align: center;' href="https://github.com/bhattbhavesh91" target="_blank">Bhavesh Bhatt</a></p>
+# <p>Developed with ❤ by <a style='display: block; text-align: center;' href="https://github.com/inlinesam66" target="_blank">Sudipta Dhar</a></p>
 # </div>
 # """
 # st.markdown(footer,unsafe_allow_html=True)
