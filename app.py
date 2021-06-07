@@ -174,7 +174,7 @@ else:
 # </div>
 # """
 # st.markdown(footer,unsafe_allow_html=True)
-# st.markdown("_- Bhavesh Bhatt_")
+# st.markdown("_- Sudipta Dhar_")
 
 pageviews=Pageviews()
 pageviews.append('dummy')
